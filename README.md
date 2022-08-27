@@ -30,7 +30,12 @@ We also plan to utilize SocialCalc, one of our open source spreadsheet projects 
 
 Quality Assurance and Water Recyclability : Our serverless solution equips with two general purpose object detection engines detect 20 object types in real-time and 80 object types & better accuracy a bit slower. Our software will turns any IP camera to an AI beast within the snap of a finger. IPFS & Ethereum, Hedera Hashgraph is a seamless solution to keep data encrypted and place the immutable fingerprints into blockchain transactions. With just a cell phone, users are offered a serverless solution that can detect objects in water in real time and more object types for better accuracy.
 
-Technologies Used: JavaScript, CSS, Tornado Python Web Framework, Swift, Yolo Machine Learning Library, Ionic Framework, Hedera Hashgraph
+Technologies Used: JavaScript, CSS, Tornado Python Web Framework, Swift, Yolo Machine Learning Library, Ionic Framework, Polygon, IPFS, NFT.Storage, Hedera Hashgraph, Polygon Testnet
+
+Polygon: We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like prepaid card, meter details information, meter license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for water management incidents and alarms.
+
+Link: https://github.com/seetadev/WaterMonitor/tree/main/PolygonAlarmViewerModule
+
 
 How it works:
 
