@@ -28,7 +28,7 @@ Our app will provide the requisites features to share weather conditions like hu
 
 Blockchain Eco-system:
 
-a. Cronos: Please visit 
+a. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
 b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract.
 
