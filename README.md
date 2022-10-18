@@ -28,9 +28,9 @@ Our app will provide the requisites features to share weather conditions like hu
 
 Blockchain Eco-system:
 
-a. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
+a. Coinex CSC: https://github.com/seetadev/WaterMonitor/tree/main/CoinexCSC-Audit
 
-b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract.
+b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
 c. RockX: We are learning to use RockX Access Node API to deploy and query on the Cronos Mainnet. We are still at the testnet stage.
 
