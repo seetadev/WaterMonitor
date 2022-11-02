@@ -1,11 +1,6 @@
-# Smart-ASA
 
-Smart ASA reference implementation combines the simplicity and security of the Algorand Standard Assets (ASA)s with the composability and programmability of Algorand Smart Contracts. The Smart ASA offers a new, powerful, L1 feature that extends regular ASAs up to the limits of your imagination!
+ARC-0020 smart contracts for Water Monitor: We are learning how to develop ARC-0020 smart contract for government assets like water meter prepaid card,water meter details information for residential societies, water meter license management and quarterly usage check and control using the reference implementation.
 
-- [Smart ASA ABI JSON](https://github.com/algorandlabs/smart-asa/blob/main/smart_asa_abi.json)
-- [Smart ASA App TEAL](https://testnet.algoexplorer.io/application/107042851)
-
-**⚠️ Disclamer: This code is not audited!**
 
 - [Overview](#overview)
 - [Reference implementation rational](#reference-implementation-rational)
