@@ -20,6 +20,8 @@ Better Management Practices Journal of water usage records covering complete cit
 
 Pitch Deck: https://drive.google.com/drive/folders/14mpks87mtZPvF78cJoqCcvs9Uhuk6gnE?usp=sharing
 
+Submission Directory: https://drive.google.com/drive/u/3/folders/1ZXnXhrBjO5ys-aRuPGUdDbWCKejD7V3M
+
 ## How we built it
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes blockchain solutions for sorting information obtained from a variety of water management bodies, cameras deployed at monitoring spots.
@@ -28,7 +30,9 @@ Our app will provide the requisites features to share weather conditions like hu
 
 Blockchain Eco-system:
 
-a. Coinex CSC: https://github.com/seetadev/WaterMonitor/tree/main/CoinexCSC-Audit
+a. Algorand blockchain: We are working towards decentralizing key components, bottlenecks in our existing decentralized storage solution.
+
+We are learning to create decentralized peer-to-peer protocols to replace centralized off-chain solutions by swapping centralized service providers for p2p infrastructure.
 
 b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
