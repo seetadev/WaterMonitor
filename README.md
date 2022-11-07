@@ -38,6 +38,8 @@ b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the to
 
 c. RockX: We are learning to use RockX Access Node API to deploy and query on the Cronos Mainnet. We are still at the testnet stage.
 
+d. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate.
+
 We also plan to utilize SocialCalc, one of our open source spreadsheet projects and customize it for developing water monitoring and sewage management application. Features include Tabulation that enables the user to enter and edit data in a tabular format; Organization that enables the user to organize the tabular matter in several forms, Facilitates sorting of numeric data, comments to increase ease of understanding of data, names to access data in different modalities, clipboard function; Collaboration and the ability to support sharing of data over the network and multi-user editing and Interoperability between SocialCalc and Excel (.xls format), csv format.
 
 Quality Assurance and Water Recyclability : Our serverless solution equips with two general purpose object detection engines detect 20 object types in real-time and 80 object types & better accuracy a bit slower. Our software will turns any IP camera to an AI beast within the snap of a finger. IPFS & Ethereum, Hedera Hashgraph is a seamless solution to keep data encrypted and place the immutable fingerprints into blockchain transactions. With just a cell phone, users are offered a serverless solution that can detect objects in water in real time and more object types for better accuracy.
