@@ -38,7 +38,20 @@ b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the to
 
 c. RockX: We are learning to use RockX Access Node API to deploy and query on the Cronos Mainnet. We are still at the testnet stage.
 
-d. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate.
+d. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate:
+
+a. NFT collection and NFTs on the æternity blockchain using the AEX-141 standard: We are extending the development on two use cases:
+
+Unique NFTs (for unique assets)
+Edition NFTs using templates (for mobility)
+
+Please visit https://github.com/seetadev/WaterMonitor/tree/main/aeternity-solution/aex141-nft-collection/aex141-nft-collection-example-master
+
+b. We are using AEproject to run a local dev environment & test ownable.aes and smartrealestate.aes Smart Contracts.
+Please visit https://github.com/seetadev/WaterMonitor/tree/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master
+
+c. We are extending the development of ownables.aes (please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/Ownable/Ownable.aes ) and smartrealestate.aes ( please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/SmartRealEstate/SmartRealEstate.aes ) 
+
 
 We also plan to utilize SocialCalc, one of our open source spreadsheet projects and customize it for developing water monitoring and sewage management application. Features include Tabulation that enables the user to enter and edit data in a tabular format; Organization that enables the user to organize the tabular matter in several forms, Facilitates sorting of numeric data, comments to increase ease of understanding of data, names to access data in different modalities, clipboard function; Collaboration and the ability to support sharing of data over the network and multi-user editing and Interoperability between SocialCalc and Excel (.xls format), csv format.
 
