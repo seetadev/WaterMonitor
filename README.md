@@ -30,17 +30,15 @@ Our app will provide the requisites features to share weather conditions like hu
 
 Blockchain Eco-system:
 
-a. Solana blockchain:
-
-b. Algorand blockchain: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
+a. Algorand blockchain: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
 We are also developing an NFT creation, subscription and minting system on Algorand for NFC tags of drones: please visit: https://github.com/seetadev/WaterMonitor/tree/main/Algorand-nft-subscription-contracts
 
 Community Tooling using Solana and Algorand for analytics, collaboration and real time monitoring: https://github.com/seetadev/WaterMonitor/tree/main/Community-Tooling-Solana-Algorand
 
-c. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
+b. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
-d. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate:
+c. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate:
 
 a. NFT collection and NFTs on the æternity blockchain using the AEX-141 standard: We are extending the development on two use cases:
 
