@@ -6,13 +6,13 @@ Remote water monitoring systems have not been used effectively in emerging count
 ## What it does
 Our vision is to carry out research on new models that incorporate technology and which aims at revolutionizing the water management practices around the world . The technology solution is designed specifically to address the needs of the water, health and environment eco-system comprising of civic bodies, water management units, hospitals, environment and health ministry, laboratories, citizens, R&D organizations and improve the operational efficiencies.
 
-Just in Time service Availability of city’s water records suffering from environmental issues across different stakeholder through secure blockchain network.
+Just in Time service: Availability of city’s water records suffering from environmental issues across different stakeholder through secure blockchain network.
 
-Record Management Quality documentation reduces the issues regarding implementation of water management policies.
+Record Management: Quality documentation reduces the issues regarding implementation of water management policies.
 
-Research Research laboratories can use the data for diagnosis of water borne diseases, suggesting personalized action to water treatment plants.
+Research: Research laboratories can use the data for diagnosis of water borne diseases, suggesting personalized action to water treatment plants.
 
-4.Web Application Cloud-based web application with a chat-based interface for quick water wastage attention. It can also be used for environment protection and steps to reduce the issues.
+Web Application: Cloud-based web application with a chat-based interface for quick water wastage attention. It can also be used for environment protection and steps to reduce the issues.
 
 Transparency Insurance agencies can utilize the data to provide customized house insurance plans to the customer. Ground water levels are at an all time low.
 
@@ -30,13 +30,15 @@ Our app will provide the requisites features to share weather conditions like hu
 
 Blockchain Eco-system:
 
-a. Algorand blockchain: We are working towards decentralizing key components, bottlenecks in our existing decentralized storage solution.
+a. Solana blockchain:
 
-We are learning to create decentralized peer-to-peer protocols to replace centralized off-chain solutions by swapping centralized service providers for p2p infrastructure.
+b. Algorand blockchain: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
-b. Covalent: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
+We are also developing an NFT creation, subscription and minting system on Algorand for NFC tags of drones: please visit: https://github.com/seetadev/WaterMonitor/tree/main/Algorand-nft-subscription-contracts
 
-c. RockX: We are learning to use RockX Access Node API to deploy and query on the Cronos Mainnet. We are still at the testnet stage.
+Community Tooling using Solana and Algorand for analytics, collaboration and real time monitoring: https://github.com/seetadev/WaterMonitor/tree/main/Community-Tooling-Solana-Algorand
+
+c. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
 d. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate:
 
