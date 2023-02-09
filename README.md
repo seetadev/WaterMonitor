@@ -28,13 +28,16 @@ Our solution offers an Artificial Intelligence-based object detection system tha
 
 Our app will provide the requisites features to share weather conditions like humidity, temperature and conditions and remotely monitor the water management policies in a place using used and broken phones and tablets, alarm clocks, internet connection, sync service, integration with IP cameras, raise safety alarms. The cost of deployment and added technology is limited which could help the families living in a variety of geographical regions.
 
-Blockchain Eco-system:
+# Algorand Blockchain
 
 a. Algorand blockchain: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
 We are also developing an NFT creation, subscription and minting system on Algorand for NFC tags of drones: please visit: https://github.com/seetadev/WaterMonitor/tree/main/Algorand-nft-subscription-contracts
 
 Community Tooling using Solana and Algorand for analytics, collaboration and real time monitoring: https://github.com/seetadev/WaterMonitor/tree/main/Community-Tooling-Solana-Algorand
+
+
+# Blockchain Eco-system:
 
 b. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
