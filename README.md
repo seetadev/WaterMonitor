@@ -31,7 +31,7 @@ Decentralized NFT-based subscription and voting system for contract work for ser
 Community Tooling using Aeternity for analytics, collaboration and real time monitoring.
 
 
-# Aeternity Blockchain Learning Eco-system:
+# Aeternity Blockchain Learning Tools, Experiments for Water Monitor:
 
 Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate.
 
