@@ -28,20 +28,16 @@ Our solution offers an Artificial Intelligence-based object detection system tha
 
 Our app will provide the requisites features to share weather conditions like humidity, temperature and conditions and remotely monitor the water management policies in a place using used and broken phones and tablets, alarm clocks, internet connection, sync service, integration with IP cameras, raise safety alarms. The cost of deployment and added technology is limited which could help the families living in a variety of geographical regions.
 
-# Algorand Blockchain
+# Aeternity Blockchain and web3 eco-system tools
 
-a. Algorand blockchain: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
+Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
-We are also developing an NFT creation, subscription and minting system on Algorand for NFC tags of drones: please visit: https://github.com/seetadev/WaterMonitor/tree/main/Algorand-nft-subscription-contracts
-
-Community Tooling using Solana and Algorand for analytics, collaboration and real time monitoring: https://github.com/seetadev/WaterMonitor/tree/main/Community-Tooling-Solana-Algorand
+Community Tooling using Aeternity for analytics, collaboration and real time monitoring.
 
 
-# Blockchain Eco-system:
+# Aeternity Blockchain Learning Eco-system:
 
-b. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
-
-c. Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate:
+Aeternity: We are utilizing Aeternity for scaling web3 solutions focused on ownership of water meters and real estate.
 
 a. NFT collection and NFTs on the æternity blockchain using the AEX-141 standard: We are extending the development on two use cases:
 
@@ -54,6 +50,10 @@ b. We are using AEproject to run a local dev environment & test ownable.aes and 
 Please visit https://github.com/seetadev/WaterMonitor/tree/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master
 
 c. We are extending the development of ownables.aes (please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/Ownable/Ownable.aes ) and smartrealestate.aes ( please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/SmartRealEstate/SmartRealEstate.aes ) 
+
+b. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
+
+c. We are also developing an NFT creation, subscription and minting system on Algorand for NFC tags of drones: please visit: https://github.com/seetadev/WaterMonitor/tree/main/Algorand-nft-subscription-contracts
 
 
 We also plan to utilize SocialCalc, one of our open source spreadsheet projects and customize it for developing water monitoring and sewage management application. Features include Tabulation that enables the user to enter and edit data in a tabular format; Organization that enables the user to organize the tabular matter in several forms, Facilitates sorting of numeric data, comments to increase ease of understanding of data, names to access data in different modalities, clipboard function; Collaboration and the ability to support sharing of data over the network and multi-user editing and Interoperability between SocialCalc and Excel (.xls format), csv format.
