@@ -40,12 +40,9 @@ a. NFT collection and NFTs on the æternity blockchain using the AEX-141 standar
 Unique NFTs (for unique assets)
 Edition NFTs using templates (for mobility)
 
-Please visit https://github.com/seetadev/WaterMonitor/tree/main/aeternity-solution/aex141-nft-collection/aex141-nft-collection-example-master
-
 b. We are using AEproject to run a local dev environment & test ownable.aes and smartrealestate.aes Smart Contracts.
-Please visit https://github.com/seetadev/WaterMonitor/tree/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master
 
-c. We are extending the development of ownables.aes (please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/Ownable/Ownable.aes ) and smartrealestate.aes ( please visit https://github.com/seetadev/WaterMonitor/blob/main/aeternity-solution/aepp-sophia-ownables-assets/aepp-sophia-examples-master/contracts/SmartRealEstate/SmartRealEstate.aes ) 
+We are extending the development of ownables.aes and smartrealestate.aes. 
 
 b. Covalent and RockX: We are developing 2 Covalent API Endpoints, one for fetching the total water incidents reported by citizens and solved by government agencies and the other for fetching the token_ids of Water Incident snapshot and Alarm NFT Contract. Cronos: Please visit https://github.com/seetadev/WaterMonitor/tree/main/Chronos
 
