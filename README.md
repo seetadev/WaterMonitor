@@ -26,9 +26,11 @@ Our app will provide the requisites features to share weather conditions like hu
 
 # Aeternity Blockchain and web3 eco-system tools
 
-Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Aerial Traffic Control. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
+Aeternity NFT marketplace: Water Meter, assets, spare parts NFT marketplace on Aeternity blockchain for NFC tags of spare parts and water meters, enabling sharing of government assets and service/repair of vital assets, reduction in counterfeiting of vital spare parts of water infrastructure. Please visit: https://github.com/seetadev/WaterMonitor/tree/main/aex141-nft-water-meter-spare-parts-marketplace
 
-Community Tooling using Aeternity for analytics, collaboration and real time monitoring.
+Community Developer Tooling using Aeternity for analytics, collaboration and real time monitoring: https://github.com/seetadev/WaterMonitor/tree/main/Community-Tooling-Aeternity
+
+DAO tooling: Decentralized NFT-based subscription and voting system for contract work for service & maintenance providers and companies and Water Departments & Control Divisions. DAOs can issue NFTs to wallets based on service and maintenance performance and work completed, and the holders of these NFTs can create proposals and vote on other proposals whilst they have the NFTs of that contract work.
 
 
 # Aeternity Blockchain Learning Tools, Experiments for Water Monitor:
