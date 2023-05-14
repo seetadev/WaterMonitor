@@ -18,10 +18,6 @@ Transparency Insurance agencies can utilize the data to provide customized house
 
 Better Management Practices Journal of water usage records covering complete city history improve the policy implementation and help define stringent rules towards saving water.
 
-Pitch Deck: https://drive.google.com/drive/folders/14mpks87mtZPvF78cJoqCcvs9Uhuk6gnE?usp=sharing
-
-Submission Directory: https://drive.google.com/drive/u/3/folders/1ZXnXhrBjO5ys-aRuPGUdDbWCKejD7V3M
-
 ## How we built it
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes blockchain solutions for sorting information obtained from a variety of water management bodies, cameras deployed at monitoring spots.
@@ -62,9 +58,11 @@ Quality Assurance and Water Recyclability : Our serverless solution equips with 
 
 Technologies Used: JavaScript, CSS, Tornado Python Web Framework, Swift, Yolo Machine Learning Library, Ionic Framework, Polygon, IPFS, NFT.Storage, Hedera Hashgraph, Polygon Testnet
 
-Polygon: We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like prepaid card, meter details information, meter license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for water management incidents and alarms.
+Polygon: We are utilizing ZoraModuleManager, and ZoraProtocolFeeSettings in our our dapp and deploying it on Polygon after registering the Zora market module. We are developing a crowdsourcing marketplace using Zora's auction house template for enabling sharing of government assets like prepaid card, meter details information, meter license management and quarterly pollution check and control. We are using the zora starter kit to access ZORA API, Creator Toolkit, and Marketplace Hyperstructure. Zora's Auction House template is being utilized for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for water management incidents and alarm. Link: https://github.com/seetadev/WaterMonitor/tree/main/PolygonAlarmViewerModule
 
-Link: https://github.com/seetadev/WaterMonitor/tree/main/PolygonAlarmViewerModule
+Pitch Deck: https://drive.google.com/drive/folders/14mpks87mtZPvF78cJoqCcvs9Uhuk6gnE?usp=sharing
+
+Submission Directory: https://drive.google.com/drive/u/3/folders/1ZXnXhrBjO5ys-aRuPGUdDbWCKejD7V3M
 
 
 How it works:
